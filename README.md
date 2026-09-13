@@ -1,12 +1,18 @@
 <h1> Autonomous Racing Drone </h1>
 A custom-designed racing drone built from scratch, using CAD prototyping, 3D printing, electronics assembly, and flight control.
 
-<h2> ## Development Log & Timeline </h2>
+<h2>Flying Clip:</h2>
+<img width="640" height="360" alt="droneGifFlying" src="https://github.com/user-attachments/assets/50c80bc7-3e6f-4f83-adb4-b38d7c31786e" />
+
+
+<h2> Development Log & Timeline </h2>
 
 ### July 30, 2026 — Initial Concepts
 Researching all necessary components, costs etc. 
-<p> Parts list:</p> 
-<p>Concept Drawings: <img width="243" height="401" alt="image" src="https://github.com/user-attachments/assets/3083f624-00c9-4e02-8d6e-d47ca1e71166" />  <img width="600" height="350" alt="Drone Concept Drawing" src="https://github.com/user-attachments/assets/11be2d73-b351-48e2-b6f7-3847146856f3" />
+<p> Parts list, Concept Drawings:</p> 
+<p>Concept Drawings: <img width="243" height="401" alt="image" src="https://github.com/user-attachments/assets/3083f624-00c9-4e02-8d6e-d47ca1e71166" /> 
+  <img width="400" height="250" alt="droneSketchRough" src="https://github.com/user-attachments/assets/adb48e7a-4e1b-4ec3-bb2a-795c9a0bca7b" />
+<img width="600" height="350" alt="Drone Concept Drawing" src="https://github.com/user-attachments/assets/11be2d73-b351-48e2-b6f7-3847146856f3" />
 </p>
 
 ### August 7, 2026 — Parts Sourcing & Calculations
