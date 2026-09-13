@@ -1,4 +1,4 @@
-<h1> Autonomous Racing Drone </h1>
+<h1>Custom Racing Drone </h1>
 A custom-designed racing drone built from scratch, using CAD prototyping, 3D printing, electronics assembly, and flight control.
 
 <h2>Flying Clip:</h2>
